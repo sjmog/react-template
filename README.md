@@ -1,14 +1,6 @@
-# Startup
+# React Template
 
-Build the thing! A multiplayer card/board game simulating what it's like to be a CTO. You have to **release working product features** before other players, by carefully balancing your **budget** and your **team**.
-
-Based on [this idea](https://regal-taste-6bf.notion.site/CTO-Game-64798c51c5f248bea1ac95a235091c82).
-
-Fun and can sneakily be used for training people about tech & what CTOs care about!
-
-## Tech stuff
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A basic React app, ready to go with SCSS and other good stuff from [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
